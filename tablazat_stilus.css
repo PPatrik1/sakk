@@ -1,0 +1,42 @@
+body{
+    background-color: gray;
+
+}
+td{
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+
+}
+table{
+    border: 2px solid black;
+    margin: auto;
+
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#favcolor{
+    background-color: red;
+}
+.btdiv{
+    background-color: darkgray;
+    margin: 5px;
+    padding: 10px;
+    float: left;
+    width: 30%;
+    text-align: justify;
+
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    border: 2px dashed rgb(0, 0, 0);
+}
